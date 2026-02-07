@@ -8,8 +8,7 @@ What problem did Transformer solve?
 
 ## CODING TASKS
 ### Fine-Tunned BERT for Text Classification 
-Pretrained BERT used(bert-base-uncased)  
-"tokenizer = BertTokenizerFast.from_pretrained("bert-base-uncased")"  
+Pretrained BERT used(bert-base-uncased) - "tokenizer = BertTokenizerFast.from_pretrained("bert-base-uncased")"  
 Added classification head  
 Fine-tuned on the dataset  
 Colab Notebook - https://colab.research.google.com/drive/106yLpRkm8nk9X-EetUypjZnSFlJeStsE?usp=sharing  
