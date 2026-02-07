@@ -22,7 +22,7 @@ Colab Notebook Link - https://colab.research.google.com/drive/13wZpJ91EuW9gjLH2I
 ### KEYWORD SPOTTING MODEL
 TASK - Binary classification: “yes” vs “no”  
 
-DATA - 
+DATA -  
 YES samples  
 !wget -q -P data/yes https://github.com/Jakobovski/free-spoken-digit-dataset/raw/master/recordings/0_jackson_0.wav  
 !wget -q -P data/yes https://github.com/Jakobovski/free-spoken-digit-dataset/raw/master/recordings/0_george_0.wav  
