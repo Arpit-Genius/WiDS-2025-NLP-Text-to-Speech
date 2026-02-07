@@ -9,11 +9,10 @@ What problem did Transformer solve?
 
 ## CODING TASKS
 ### Fine-Tunned BERT for Text Classification 
-Loaded pretrained BERT(bert-base-uncased) 
+Pretrained BERT used(bert-base-uncased) 
 "tokenizer = BertTokenizerFast.from_pretrained("bert-base-uncased")"
 Added classification head
 "num_labels = len(set(labels))
-
 model = BertForSequenceClassification.from_pretrained(
     "bert-base-uncased",
     num_labels=num_labels
