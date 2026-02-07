@@ -15,14 +15,7 @@ Pretrained BERT used(bert-base-uncased)
 
 Added classification head  
 
-"num_labels = len(set(labels))
-model = BertForSequenceClassification.from_pretrained(
-    "bert-base-uncased",
-    num_labels=num_labels
-)"  
- 
 Fine-tuned on the dataset  
-
 Colab Notebook - https://colab.research.google.com/drive/106yLpRkm8nk9X-EetUypjZnSFlJeStsE?usp=sharing  
  
 
