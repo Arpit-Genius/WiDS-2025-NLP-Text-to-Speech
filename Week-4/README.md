@@ -23,12 +23,12 @@ Colab Notebook Link - https://colab.research.google.com/drive/13wZpJ91EuW9gjLH2I
 TASK - Binary classification: “yes” vs “no”  
 
 DATA - 
-# YES samples  
+YES samples  
 !wget -q -P data/yes https://github.com/Jakobovski/free-spoken-digit-dataset/raw/master/recordings/0_jackson_0.wav  
 !wget -q -P data/yes https://github.com/Jakobovski/free-spoken-digit-dataset/raw/master/recordings/0_george_0.wav  
 !wget -q -P data/yes https://github.com/Jakobovski/free-spoken-digit-dataset/raw/master/recordings/0_nicolas_0.wav  
 
-# NO samples  
+NO samples  
 !wget -q -P data/no https://github.com/Jakobovski/free-spoken-digit-dataset/raw/master/recordings/1_jackson_0.wav  
 !wget -q -P data/no https://github.com/Jakobovski/free-spoken-digit-dataset/raw/master/recordings/1_george_0.wav  
 !wget -q -P data/no https://github.com/Jakobovski/free-spoken-digit-dataset/raw/master/recordings/1_nicolas_0.wav   
