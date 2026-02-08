@@ -49,4 +49,5 @@ NO samples (digit "1")
 EXTRACTS - Spectogram, Mel Spectogram, MFCCs  
 
 Comapred features across different words  
+
 Colab Notebook Link - https://colab.research.google.com/drive/1yaPD3BfVvhV6CMATJlGFcjYxQa2sM_ot?usp=sharing
